@@ -13,4 +13,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jessicapatwa" alt="jessicapatwa" /></a> </p>
 
-[![Jessica's GitHub stats](https://github-readme-stats.vercel.app/api?username=jessicapatwa)](https://github.com/jessicapatwa/github-readme-stats)
+#[![Jessica's GitHub stats](https://github-readme-stats.vercel.app/api?username=jessicapatwa)](https://github.com/jessicapatwa/github-readme-stats)
+
+[![jessicapatwa](https://circleci.com/gh/jessicapatwa/jessicapatwa.svg?style=svg)](https://app.circleci.com/pipelines/github/jessicapatwa/jessicapatwa?branch=main&filter=all)
