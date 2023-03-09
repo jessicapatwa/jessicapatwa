@@ -5,7 +5,7 @@
 -->
 - 🔭 I’m currently working on my web programming skills
 - 🌱 Currently pursuing Masters degree in Computer Software Engineering from Stevens Institute of Technology, Hoboken, New Jersey.
-- 👩🏻‍💻 Worked as a Software Engineer for 3 years at United Overseas Bank, Singapore.
+- 👩🏻‍💻 Worked as a Software Engineer for 3 years at United Overseas Bank (UOB Bank), Singapore.
 - 👩🏻‍🎓 Compleated Bachelors degree in Electronics and Communication Engineering from Manipal Institute of technology, Manipal, India.
 - 👯 Let me know if you're open to collaborate!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jessica-patwa-4b0872143/) and [Mail](patwajessica@gmail.com)
